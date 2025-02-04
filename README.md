@@ -10,4 +10,5 @@ Owner of Madhav Store wants us to help them create a dashboard to track and anal
 
 ## Dashboard
 
-!(C:\Users\hp\OneDrive\Documents\Power BI Dashboards\Madhav Store Ecommerce Data)
+![Madhav Store](https://github.com/user-attachments/assets/8a304116-94bb-4d0f-8e82-5ddb140e7632)
+
