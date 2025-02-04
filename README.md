@@ -7,3 +7,7 @@ Owner of Madhav Store wants us to help them create a dashboard to track and anal
 - <a href="https://github.com/vishi1314/Data-Analysis-Dashboard/blob/main/Orders.csv">Dataset</a>
 
 - Dashboard Interaction <a href="https://github.com/vishi1314/Data-Analysis-Dashboard/blob/main/Madhav%20Store.png">View Dashboard</a>
+
+## Dashboard
+
+!(C:\Users\hp\OneDrive\Documents\Power BI Dashboards\Madhav Store Ecommerce Data)
