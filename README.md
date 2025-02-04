@@ -13,7 +13,8 @@ Owner of Madhav Store wants us to help them create a dashboard to track and anal
 ![Madhav Store](https://github.com/user-attachments/assets/8a304116-94bb-4d0f-8e82-5ddb140e7632)
 
 ## Project Learnings:
-Created interactive dashboard to track and analyze online sales data
-Used complex parameters to drill down in worksheets and customization using filters and slicers
-Created connections,join new tables, calculations to manipulate data and enable user driven parameters for visualizations
-Used different types of customized visualization(bar chart, pir chart, donut chart, clustered var chart, scatter chart, line chart, area chart, map, slicers, etc.)
+•	Created interactive dashboard to track and analyze online sales data
+•	Used complex parameters to drill down in worksheets and customization using filters and slicers
+•	Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
+•	Used different types of customized visualization(bar chart, pir chart, donut chart, clustered var chart, scatter chart, line chart, area chart, map, slicers, etc)
+
